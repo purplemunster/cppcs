@@ -1,0 +1,3 @@
+[submodule "imported/glm"]
+	path = imported/glm
+	url = https://github.com/g-truc/glm
